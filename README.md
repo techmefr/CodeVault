@@ -1,2 +1,0 @@
-# CodeVault
-A password generator 
