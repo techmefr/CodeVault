@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 import "./copyButton.css";
-
 function CopyButton({ text }) {
   const copyToClipboard = () => {
     navigator.clipboard
