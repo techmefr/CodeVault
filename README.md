@@ -1,6 +1,6 @@
 # CodeVault - Générateur de Mots de Passe Sécurisés
 
-Une application React moderne qui génère des mots de passe cryptographiquement sécurisés avec des options de personnalisation avancées.
+Une application React qui génère des mots de passe cryptographiquement sécurisés avec des options de personnalisation avancées.
 
 ## 🔐 Fonctionnalités
 
